@@ -66,7 +66,7 @@ The report is divided into interactive pages for easy navigation:
 
 ---
 ## Full Project
-<img width="1327" height="744" alt="Image" src="https://github.com/user-attachments/assets/a5623184-d6dd-46a1-a805-7b0ff4277d68" />
+<!-- Failed to upload "Screenshot 2026-03-04 213537.png" -->
 
 <img width="1333" height="747" alt="Image" src="https://github.com/user-attachments/assets/27115e3f-9947-412f-b07a-6e2acd2dfcdc" />
 
