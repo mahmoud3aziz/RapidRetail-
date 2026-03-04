@@ -44,10 +44,15 @@ This project follows a professional data pipeline:
 ## 📐 DAX Measures Developed
 
 -Total Revenue & Profit: $1.76M Revenue with a 59.67% Margin.
+
 -YoY % Growth: Calculated a massive 212.2% year-over-year increase.
+
 -Return Rate Analysis: Tracking returns to identify quality issues.
+
 -Average Order Value (AOV): Measuring customer purchasing power ($6.54 average).
+
 -Time Intelligence: Comparing monthly performance across 2017 and 2018.
+
 ---
 
 ## 📊 Dashboards Included
