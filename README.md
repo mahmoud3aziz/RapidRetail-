@@ -66,21 +66,14 @@ The report is divided into interactive pages for easy navigation:
 
 ---
 ## Full Project
-<!-- Failed to upload "Screenshot 2026-03-04 213537.png" -->
+<img width="1378" height="780" alt="Image" src="https://github.com/user-attachments/assets/c4a2ba76-5c11-4a49-aad9-53faa3e39569" />
 
-<img width="1333" height="747" alt="Image" src="https://github.com/user-attachments/assets/27115e3f-9947-412f-b07a-6e2acd2dfcdc" />
+<img width="1376" height="777" alt="Image" src="https://github.com/user-attachments/assets/80e1b8b1-694c-4aed-9e26-929d23003a76" />
 
-<img width="1333" height="747" alt="Image" src="https://github.com/user-attachments/assets/1fb8bc54-94e3-4e69-9bf6-d2379034bdca" />
+<img width="1383" height="782" alt="Image" src="https://github.com/user-attachments/assets/89e47045-5997-4ec0-ab9c-98bce244f3cc" />
 
-<img width="1340" height="750" alt="Image" src="https://github.com/user-attachments/assets/b41e0594-af38-4e26-831d-d2658bd0b366" />
+<img width="1382" height="785" alt="Image" src="https://github.com/user-attachments/assets/d2b37882-d32b-4eb8-9887-466f3520eea4" />
 
-<img width="1336" height="753" alt="Image" src="https://github.com/user-attachments/assets/f314f60a-f8de-4f25-8603-e3eba08e374b" />
-
-<img width="1349" height="762" alt="Image" src="https://github.com/user-attachments/assets/ffa2af89-2225-4149-89cd-24bf562806f4" />
-
-<img width="1334" height="756" alt="Image" src="https://github.com/user-attachments/assets/8bd4a7d9-b415-4474-b969-47c11f24a659" />
-
-<img width="1336" height="760" alt="Image" src="https://github.com/user-attachments/assets/0bd55348-68c1-43b0-9dbc-213beed6c1ef" />
 
 <img width="793" height="765" alt="Image" src="https://github.com/user-attachments/assets/41c0b5a9-b670-405c-b6e1-1607bd9e0a88" />
 
