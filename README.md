@@ -98,4 +98,8 @@ The report is divided into interactive pages for easy navigation:
 
 <img width="1391" height="785" alt="Image" src="https://github.com/user-attachments/assets/41a08e5d-fb45-456b-b1bc-81c89a481179" />
 
+## Data Modling
+
+<img width="1641" height="818" alt="Image" src="https://github.com/user-attachments/assets/0f9da672-67ff-46d9-a78c-767484f318c3" />
+
 ---
