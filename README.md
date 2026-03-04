@@ -74,8 +74,6 @@ The report is divided into interactive pages for easy navigation:
 
 <img width="1382" height="785" alt="Image" src="https://github.com/user-attachments/assets/d2b37882-d32b-4eb8-9887-466f3520eea4" />
 
-
-<img width="793" height="765" alt="Image" src="https://github.com/user-attachments/assets/41c0b5a9-b670-405c-b6e1-1607bd9e0a88" />
-
+<img width="1382" height="785" alt="Image" src="https://github.com/user-attachments/assets/25d6d0a1-d02a-4acc-93f5-fd93179106eb" />
 
 ---
